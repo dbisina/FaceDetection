@@ -1,8 +1,3 @@
-"""
-1. Get a shitload of faces
-2. make em black and white
-3. Train the algorithm to detect faces
-"""
 
 import cv2
 
